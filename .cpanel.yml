@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYMENT_PATH=/home/yourusername/public_html/stories
+    - /bin/cp -r * $DEPLOYMENT_PATH
