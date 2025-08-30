@@ -1,0 +1,29 @@
+#storyContent {
+    width: 80%;
+    margin: 20px auto;
+    padding: 20px;
+    font-family: Georgia, serif;
+    line-height: 1.6;
+    border: 1px solid #ccc;
+    background: #f9f9f9;
+}
+.story-selector {
+    text-align: center;
+}
+button {
+    margin: 5px;
+    padding: 10px;
+    cursor: pointer;
+}
+#storyContent h1 {
+    font-size: 2em;
+    margin-bottom: 0.5em;
+}
+#storyContent p {
+    margin-bottom: 1em;
+}
+#storyContent blockquote {
+    border-left: 4px solid #ccc;
+    padding-left: 10px;
+    color: #555;
+}
