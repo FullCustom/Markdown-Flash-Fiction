@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Short Stories</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <div class="story-selector">
+        <button onclick="loadStory('_txt/story1.md')">The Lost Key</button>
+        <button onclick="loadStory('_txt/story2.md')">Moonlit Path</button>
+    </div>
+    <div id="storyContent">Select a story to read.</div>
+
+    <!-- Include Marked.js from CDN -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="js/scripts.js"></script>
+</body>
+</html>
