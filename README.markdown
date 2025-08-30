@@ -14,9 +14,9 @@ This repository contains a simple website for displaying short stories stored as
 ```
 short-stories/
 ├── index.html          # Main HTML file with story selector and content div
-├── css/
+├── _css/
 │   └── styles.css      # CSS for styling the site and rendered Markdown
-├── js/
+├── _js/
 │   └── scripts.js      # JavaScript for fetching and rendering Markdown
 ├── _txt/
 │   ├── story1.md       # Sample story in Markdown
