@@ -67,8 +67,16 @@ nav ul li a:hover {
     font-size: 2em;
     margin-bottom: 0.5em;
 }
+#storyContent h2 {
+    font-family: 'Orbitron', sans-serif;
+    color: #5a3d2b;
+    font-size: 1.5em;
+    margin-bottom: 0.5em;
+    text-align: center;
+}
 #storyContent p {
     margin-bottom: 1em;
+    text-indent: 2em; /* Adds indent to first line of paragraphs */
 }
 #storyContent blockquote {
     border-left: 4px solid #ccc;
