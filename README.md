@@ -6,6 +6,7 @@ This repository contains a simple website for displaying short stories stored as
 ## Features
 - Displays short stories from `_txt/*.md` files in a styled `<div>`.
 - Uses Marked.js to convert Markdown to HTML for rich formatting (headings, bold, italic, lists, blockquotes).
+- Stories support embedded images using Markdown syntax (`![Alt text](path/to/image.jpg)`), styled for responsiveness.
 - `index.html`: Hardcoded Bootstrap navbar dropdown for story selection.
 - `dynamic_index.php`: Dynamic dropdown using PHP to list stories from `_txt/`.
 - "House Flavor" styling with a sci-fi aesthetic (Orbitron font, earthy color palette).
