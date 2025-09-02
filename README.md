@@ -16,6 +16,8 @@ short-stories/
 ├── index.html          # Main HTML file with story selector and content div
 ├── _css/
 │   └── styles.css      # CSS for styling the site and rendered Markdown
+├── _img/
+│   └── img.jpg         # Folder for images and navbar logo
 ├── _js/
 │   └── scripts.js      # JavaScript for fetching and rendering Markdown
 ├── _txt/
