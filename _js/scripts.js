@@ -1,4 +1,5 @@
 function loadStory(file) {
+    if (!file) return;
     fetch(file)
         .then(response => {
             if (!response.ok) throw new Error('Story not found');

@@ -34,13 +34,34 @@ body {
     border: 1px solid #ccc;
     background: #f9f9f9;
 }
-.story-selector {
-    text-align: center;
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    align-items: center;
 }
-button {
-    margin: 5px;
-    padding: 10px;
+nav ul li {
+    margin-right: 20px;
+}
+nav ul li a {
+    color: #ffffff;
+    text-decoration: none;
+}
+nav ul li a:hover {
+    text-decoration: underline;
+}
+#storySelector {
+    background-color: #ffecb4;
+    color: #5a3d2b;
+    border: 1px solid #5a3d2b;
+    padding: 5px;
+    font-family: 'Orbitron', sans-serif;
     cursor: pointer;
+}
+#storySelector:hover, #storySelector:focus {
+    background-color: #e5771e;
+    color: #ffffff;
+    outline: none;
 }
 #storyContent h1 {
     font-size: 2em;
