@@ -22,9 +22,6 @@ body {
     background-color: #75c8ae;
     color: #5a3d2b;
 }
-.logo-img {
-    width: 100px;
-}
 #storyContent {
     width: 80%;
     margin: 20px auto;
@@ -90,4 +87,7 @@ nav ul li a:hover {
     margin: 1em auto;
     border: 1px solid #5a3d2b;
     border-radius: 5px;
+}
+.logo-img {
+    width: 100px;
 }
