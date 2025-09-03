@@ -1,5 +1,9 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYMENT_PATH=/home2/yourusernamefullcdhk/public_html/1979
-    - /bin/cp -r * $DEPLOYMENT_PATH
+    - export DEPLOYMENT_PATH=/home2/fullcdhk/public_html/1979
+    - /bin/cp index.php $DEPLOYMENT_PATH
+    - /bin/cp -r _css $DEPLOYMENT_PATH
+    - /bin/cp -r _img $DEPLOYMENT_PATH
+    - /bin/cp -r _js $DEPLOYMENT_PATH
+    - /bin/cp -r _txt $DEPLOYMENT_PATH
