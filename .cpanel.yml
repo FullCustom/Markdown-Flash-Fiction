@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYMENT_PATH=/home/yourusername/public_html/stories
+    - export DEPLOYMENT_PATH=/home2/yourusernamefullcdhk/public_html/1979
     - /bin/cp -r * $DEPLOYMENT_PATH
