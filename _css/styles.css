@@ -74,6 +74,8 @@ nav ul li a:hover {
 #storyContent p {
     margin-bottom: 1em;
     text-indent: 2em; /* Adds indent to first line of paragraphs */
+    text-align: justify;
+    text-justify: inter-word;
 }
 #storyContent blockquote {
     border-left: 4px solid #ccc;
