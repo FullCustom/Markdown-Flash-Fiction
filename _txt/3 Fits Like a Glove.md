@@ -1,4 +1,4 @@
-# Fits Like a Glove
+# Space 1979 | Fits Like a Glove
 The street lights shone through the wide branches of elm trees. They made shadows across the hoods of cars, parked in rows on a bias, and the uneven brick sidewalks. The sound of slap bass and wah guitar rolled onto the street at a level that was at least three decibels in defiance of local noise ordinance. Rows of black iron railings lined the sidewalks. Just beyond was a deep green sign with gold-leaf lettering that read: Finley McNamara's Irish Pub. Below that was a poorly hung vinyl banner that advertised Seamus Blofeld and the Soul Scream Machine sponsored by Lobster Ale.
  
 Behind the bar stood Finley McNamara himself. He nervously wiped down the bar top with a rag. It was so gray and misshapen that it may have been an old sock attempting a second chance at life as a bar towel. Meanwhile his usual crowd of patrons sat and drank off the last of a hard day’s work of regional sales and maybe insurance claims adjusting. Finley threw his ‘towel’ over one shoulder and approached a woman in a polyester pants suit and decade old hair style.

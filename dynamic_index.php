@@ -24,7 +24,7 @@ $stories = glob("_txt/*.md");
 </head>
 <body>
     <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
-        <a class="navbar-brand" href="https://bubble.fullcustommusic.com">
+        <a class="navbar-brand" href="https://quenbyolson.com/">
             <img src="_img/61294.png" alt="Logo" class="logo-img"> | Radio Cruithne
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar" aria-label="Toggle navigation" title="Open or close menu">
