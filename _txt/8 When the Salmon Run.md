@@ -140,7 +140,7 @@ While Ralph seemed content to listen Melvin took a small notebook and pen from h
 “Ayuh, my fishy friends come by quite often. See, tis the fish-nip. They can’t grow it themselves. They call it Lunah. I guess tis my Grandpa’s fault. Old fishehman’s trick, we called it the herb-bait. Back on Europa we’d spread er out on the wateh ta get em excited.”
 
 ## ***
- Psarah held her hands to her flushed red face. The cool water from the sink felt calming. After a few deep breaths she looked for something to dry her face. Hung on the wall to the right of the bathroom mirror was a McGuffin Products paper towel dispenser. Psarah tore a towel from the bottom of the dispenser. Something on top glowed and then artered its form.
+Psarah held her hands to her flushed red face. The cool water from the sink felt calming. After a few deep breaths she looked for something to dry her face. Hung on the wall to the right of the bathroom mirror was a McGuffin Products paper towel dispenser. Psarah tore a towel from the bottom of the dispenser. Something on top glowed and then artered its form.
 
 “Oooo, pretty, what is it”.
 

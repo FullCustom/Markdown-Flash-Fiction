@@ -26,7 +26,7 @@ The Black Phoenix leveled out and turned right. A few green houses came into vie
 “There, park right there.”
 
 “That rusty old crate? I’m not parking next to anything with a student parking ID on it! I’ll pick my own space.”
-***
+## ***
 The west end of the Heinrich Weissenburg Research Center was well landscaped with low floral hedges and brick walkways. A few scrubby juniper trees grew along the walkways. Three students sat on the stairs talking. Their breath made clouds in the cold dry Martian air.
 
 “Hey. You, people. You know where the Doctor’s at?”
@@ -37,7 +37,7 @@ The west end of the Heinrich Weissenburg Research Center was well landscaped wit
 
 “I’m sorry for the boldness of my colleague. We are looking for Dr Weissenburg, we have a meeting with him.”
 
-  “Evan, Gerg… if you guys want to head to Joe’s and find a table for us? I’ll show these guys to Dr Weissenburg.”
+“Evan, Gerg… if you guys want to head to Joe’s and find a table for us? I’ll show these guys to Dr Weissenburg.”
 
 “Okay, do you want us to order anything for you?”
 
