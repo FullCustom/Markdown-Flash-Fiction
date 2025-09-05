@@ -19,3 +19,14 @@ Clementine stood, her face white as a sheet, her dreams crumblin’ like dry cor
 Cornelius, his heart near breakin’, looked at her with eyes full of grief. “I thought you was my star, Clementine,” he said, soft as a sigh. “But you’ve sold my trust for a scoundrel’s promises.” Then the truth struck like lightning: Silas, steppin’ from the shadows, revealed himself as a rival oligarch, his own robot empire built to topple Cornelius’s. He’d used Clementine’s love as a key to her daddy’s vault, and now he stood exposed, his charm turned to ash.
 
 Clementine, too proud to weep for long, fled Austin with Silas, some say to plot anew in the neon jungles of Silicon Valley. Cornelius, his faith in his daughter shattered but his spirit unbowed, pressed on with his cooperative, sharin’ his robots’ wealth with the people. The whispers of slavery faded, and Austin grew into a place where machines and men worked as kin. Folks still speak of Cornelius Van Zandt, the oligarch who loved his spoiled daughter too much to see her betrayal, but loved the world enough to save it from her and her false love’s greed.
+
+## Prompts
+> could humanoid robots and AI create an economy more like societies that had slavery.
+
+> Based on this chat write a story in the style of Mark Twain about a Debutante of an Austin Tech Oligarch.
+
+> You made the obvious choice for today's politics in making the Debutante the protagonist. Now flip the script and make the Debutante the antagonist and her father the Protagonist.
+
+> That version is much better. Your first version was almost feminists. Which made it too modern to be Twain. If the Debutante was more spoiled and her father couldn't imagine her doing wrong it would be even better.
+
+> Almost. Make Silas a love interest for Clementine and reveal at the end that he is a rival tech oligarch to Cornelius.
