@@ -56,7 +56,7 @@ $stories = glob("_txt/*.md");
         </div>
     </nav>
     <header class="container-fluid bg-1 text-center">
-        <h1>SPACE|1979</h1>
+        <h1>Tales of the Absurd</h1>
     </header>
     <div class="container-fluid bg-2">
         <div id="storyContent">Select a story to read.</div>
