@@ -17,6 +17,7 @@ $stories = glob("_txt/*.md");
     <meta charset="UTF-8">
     <title>3753 Cruithne</title>
     <meta name="google-site-verification" content="#" />
+    <meta name="fo-verify" content="d33e52d0-7445-4fb3-bf3f-3e4997d7a083" />
     <meta name="robots" content="index, follow, noarchive, noimageindex">
     <meta name="description" content="Short sci-fi stories by Timothy Eisenacher, rendered from Markdown.">
     <meta name="keywords" content="sci-fi, short stories, Radio Cruithne, Timothy Eisenacher">
