@@ -17,7 +17,6 @@ $stories = glob("_txt/*.md");
     <meta charset="UTF-8">
     <title>3753 Cruithne</title>
     <meta name="google-site-verification" content="#" />
-    <meta name="fo-verify" content="d33e52d0-7445-4fb3-bf3f-3e4997d7a083" />
     <meta name="robots" content="index, follow, noarchive, noimageindex">
     <meta name="description" content="Short sci-fi stories by Timothy Eisenacher, rendered from Markdown.">
     <meta name="keywords" content="sci-fi, short stories, Radio Cruithne, Timothy Eisenacher">
@@ -67,6 +66,10 @@ $stories = glob("_txt/*.md");
     </nav>
     <header class="container-fluid bg-1 text-center">
         <h1>Tales of the Absurd</h1>
+        <p>Brought to you by</p>
+<a rel="sponsored" href="https://www.awin1.com/cread.php?s=2961256&v=25361&q=420396&r=2579497">
+    <img src="https://www.awin1.com/cshow.php?s=2961256&v=25361&q=420396&r=2579497" border="0">
+</a>
     </header>
     <div class="container-fluid bg-2">
         <div id="storyContent">Select a story to read.</div>
