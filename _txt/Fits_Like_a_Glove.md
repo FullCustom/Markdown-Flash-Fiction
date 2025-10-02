@@ -60,6 +60,10 @@ Standing in the spot Glovesy occupied moments ago was a custom-tailored suit wit
 
 “What’s wrong with you lady? Hey, what is this place? It kinda looks like the Ol’Barnacle.”
 
+<a rel="sponsored" href="https://www.awin1.com/cread.php?s=4533140&v=25361&q=582936&r=2579497">
+    <img src="https://www.awin1.com/cshow.php?s=4533140&v=25361&q=582936&r=2579497" border="0">
+</a>
+
 Without a word the Cowboy put down his whiskey and reached under his poncho, dust from a desert plain in some far off dimension brushed to the floor. His hand returned with a thick lariat made of hemp rope. With a few overhead swings he threw the loop of rope over the head of the confused fishman. With a single pull from both arms and full stride sidestep the scaly man-fish was dragged to the arcade machine.
 
 “What the… Hey I didn’t do nothin!”

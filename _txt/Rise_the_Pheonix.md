@@ -74,6 +74,11 @@ Looking ahead from between two freight transports the young girl found herself a
 
 "Where am I, some kind of space truck stop?"
 
+<a rel="sponsored" href="https://www.awin1.com/cread.php?s=4533142&v=25361&q=499052&r=2579497">
+    <img src="https://www.awin1.com/cshow.php?s=4533142&v=25361&q=499052&r=2579497" border="0">
+</a>
+
+
 ## * * *
 Bask in the glow of the check engine light
 

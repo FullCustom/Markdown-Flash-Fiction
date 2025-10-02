@@ -80,6 +80,9 @@ Oh, um yeah, okay. Keep everyone out.”
 
 The line clicked dead. Dr Weissenburg often bailed out of a conversation once his own ideas had been conveyed. He was the social analog of a jet pilot evading a crash. Unsure of what happened, Evan held the phone for a minute before hanging up. Confused and defeated he walked back to the lab.
 
+## Libro.fm Affiliate bestseller
+## [Wintering by Katherine May](https://www.awin1.com/cread.php?awinmid=25361&awinaffid=2579497&ued=https%3A%2F%2Flibro.fm%2Faudiobooks%2F9780593288719)
+
 ## * * *
 Pam took a few more steps toward the door before being stopped by Gerg.
 

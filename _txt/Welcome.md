@@ -1,6 +1,6 @@
 # Welcome to Tales of the Absurd by Radio Cruithne
 
-Welcome to **Radio Cruithne**, a cozy corner of the internet where imagination thrives through short stories. Here, we weave tales of mystery, adventure, and wonder, crafted in Markdown and delivered with a touch of cosmic charm.
+Welcome to **Radio Cruithne**, a cozy corner of the internet where imagination thrives through short stories. Here, we weave tales of mystery, adventure, and wonder, crafted in Markdown and delivered with a touch of cosmic charm. I'm hoping to open submissions in November. This month I am working on monetization. We have our first sponsor with Libro.fm, this month they are Book Shop Day. [When customers sign up for a new monthly membership with code BOOKSHOPDAY, we’ll give them two bonus audiobooks!](https://www.awin1.com/cread.php?awinmid=25361&awinaffid=2579497&ued=https%3A%2F%2Flibro.fm%2Fmembership%3Fmp%3DBOOKSHOPDAY)
 
 ## About This Site
 This site is a showcase of handcrafted short stories, stored as Markdown files and rendered dynamically for your reading pleasure. Whether you're here for a quick escape or a moment of reflection, our stories are designed to spark your imagination. Click the dropdown menu above to dive into a tale, or explore the table of contents below to choose your adventure.
@@ -17,6 +17,6 @@ This site is a showcase of handcrafted short stories, stored as Markdown files a
 ## How to Use This Site
 Simply click the featured story links above to load a tale into this space or select one from the dropdown menu. Each story is written in Markdown, ensuring clean formatting and a focus on the narrative. Feel free to explore, and check back often for new stories added to our collection.
 
-> "Stories are the stars we navigate by in the vast night of existence." — Anonymous
+> “If my doctor told me I had only six minutes to live, I wouldn't brood. I'd type a little faster.” — Isaac Asimov
 
 Enjoy these Tales of the Absurd brought to you by Radio Cruithne!

@@ -61,6 +61,9 @@ There sure was no better way to apply for a job as henchman than a throat punch,
 
 “I’ve never seen anybody knocked out cold like that. You sure are terrible at knucklebones but do you want to play tomorrow?”
 
+## Libro.fm Audiobook bestseller list
+## [Check out the bestsellers on Libro.fm](https://www.awin1.com/cread.php?awinmid=25361&awinaffid=2579497&ued=https%3A%2F%2Flibro.fm%2Fbestsellers)
+
 ## ***
 After several false starts, Lawrence was finally able to interject in their single sided conversation,
 

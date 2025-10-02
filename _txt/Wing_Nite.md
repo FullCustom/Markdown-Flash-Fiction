@@ -21,6 +21,9 @@ Ralph leaned in.
 
 “Thanks, my name is Psarah by the way. Please tell me it's chicken wings that they serve here. I’ve had a pretty strange day.”
 
+## Libro.fm Staff favorites
+## [If You're Seeing This, It's Meant for You by Leigh Stein](https://www.awin1.com/cread.php?awinmid=25361&awinaffid=2579497&ued=https%3A%2F%2Flibro.fm%2Faudiobooks%2F9798217158980)
+
 ## ***
 Inside Ol’76 diner country music played from a jukebox in a corner next to the hallway. While fryers browning frozen food mingled grease with a cloud of cigarette smoke that extended from the ceiling to about waist high. The worst part of this rustic backdrop was the music, it was modern country music. The kind that comes stamped out in a single afternoon, with session musicians from a Martian trojan planetoid known as New Nashville.
 
