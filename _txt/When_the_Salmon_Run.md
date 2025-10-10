@@ -80,6 +80,10 @@ Psarah’s excitement deflated as Ralph handed her the old military surplus brea
 
 “Let’s go, we need to find what those fish-creeps have done with the Doctor’s cube.”
 
+<a rel="sponsored" href="https://www.awin1.com/cread.php?s=4479422&v=118439&q=561473&r=2579497">
+    <img src="https://www.awin1.com/cshow.php?s=4479422&v=118439&q=561473&r=2579497" border="0">
+</a>
+
 ## ***
 Ralph and Psarah followed Melvin to a door with a large sign next to it that read; Agricultural Complex 5, Wayne Gibbous Farm. Next to it was a brightly colored billboard with a picture of a happy farmer; an odd contrast to the stark concrete and steel of the docking port.
 

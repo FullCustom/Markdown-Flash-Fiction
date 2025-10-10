@@ -20,3 +20,6 @@ Simply click the featured story links above to load a tale into this space or se
 > “If my doctor told me I had only six minutes to live, I wouldn't brood. I'd type a little faster.” — Isaac Asimov
 
 Enjoy these Tales of the Absurd brought to you by Radio Cruithne!
+<a rel="sponsored" href="https://www.awin1.com/cread.php?s=3526281&v=67144&q=479083&r=2579497">
+    <img src="https://www.awin1.com/cshow.php?s=3526281&v=67144&q=479083&r=2579497" border="0">
+</a>

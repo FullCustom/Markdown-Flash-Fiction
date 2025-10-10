@@ -66,7 +66,7 @@ $stories = glob("_txt/*.md");
     </nav>
     <header class="container-fluid bg-1 text-center">
         <h1>Tales of the Absurd</h1>
-        <p>Brought to you by</p>
+        <p>Brought to you by Libro.fm</p>
 <a rel="sponsored" href="https://www.awin1.com/cread.php?s=2961256&v=25361&q=420396&r=2579497">
     <img src="https://www.awin1.com/cshow.php?s=2961256&v=25361&q=420396&r=2579497" border="0">
 </a>
