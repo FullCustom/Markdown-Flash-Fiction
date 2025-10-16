@@ -23,10 +23,11 @@ Cornelius, his heart near breakin’, looked at her with eyes full of grief. “
 
 Clementine, too proud to weep for long, fled Austin with Silas, some say to plot anew in the neon jungles of Silicon Valley. Cornelius, his faith in his daughter shattered but his spirit unbowed, pressed on with his cooperative, sharin’ his robots’ wealth with the people. The whispers of slavery faded, and Austin grew into a place where machines and men worked as kin. Folks still speak of Cornelius Van Zandt, the oligarch who loved his spoiled daughter too much to see her betrayal, but loved the world enough to save it from her and her false love’s greed.
 
+<div class="banner">
 <a rel="sponsored" href="https://www.awin1.com/cread.php?s=4533532&v=25361&q=472958&r=2579497">
     <img src="https://www.awin1.com/cshow.php?s=4533532&v=25361&q=472958&r=2579497" border="0">
 </a>
-
+</div>
 
 ## Prompts
 > could humanoid robots and AI create an economy more like societies that had slavery.

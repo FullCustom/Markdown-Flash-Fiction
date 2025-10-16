@@ -58,9 +58,11 @@ Pam gestured to the laboratory door as they approached it,
 
 ”You guys can wait in here while I get Dr Weissenburg. He’s waiting in the office next door.”
 
+<div class="banner">
 <a rel="sponsored" href="https://www.awin1.com/cread.php?s=2200256&v=15132&q=341619&r=2579497">
     <img src="https://www.awin1.com/cshow.php?s=2200256&v=15132&q=341619&r=2579497" border="0">
 </a>
+</div>
 
 ## ***
 It didn’t take long for Pam to return with the Doctor. Even though Weissenburg wasn’t a tall man and had introspective, introverted tendencies. He could gather a room's attention like a car on fire. He spoke in a low tone with vocal fry like the last few popping kernels of popcorn.

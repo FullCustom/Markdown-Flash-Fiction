@@ -3,9 +3,11 @@ Deep in a layer of ice, long forgotten by time, was an old rusty can. Although t
 
 The ice fishing houses of Europa were not like the little huts used back on Earth. The ice of Europa was plenty thick enough to support a large commercial building. The giant ice fishing houses dotted the surface opposite Jupiter. Most were large permanent concrete and steel structures. A few were movable with a towering drill rig towed behind. Ice-Star Farms had thought they had found the perfect solution to feeding the growing number of newly multi planetary humans. By introducing salmon and tuna to Europa they’d created the largest fish farm in the Sol system. For decades fisherman from Earth flocked to the ice fishing water-world to enjoy the best catches ever known to humanity. It wasn’t long before the colony began to support other industry. One group of fishermen from Maine even opened up an Avant Garde Jazz night club called the Rusty Barnacle. It was paradise and every year the fish were larger and the catch more numerous. But it wasn’t to last. With a collapse in iridium prices the asteroid belt miners went on strike. When the strike turned into a full on rebellion and the Solarian economy headed toward failure. The giant fish farming moon went bust. Never again would men in plaid shirts and ice flecked beards gaze at the blue light of Earth from the water-moon of Jupiter.
 
+<div class="banner">
 <a rel="sponsored" href="https://www.awin1.com/cread.php?s=4533131&v=25361&q=475126&r=2579497">
     <img src="https://www.awin1.com/cshow.php?s=4533131&v=25361&q=475126&r=2579497" border="0">
 </a>
+</div>
 
 ## ***
 The nights of Europa aren’t like Earth’s. They’re longer, darker, and colder. The days are bright, bold, and crisp. A permanent winter with a spring that was always another six weeks away.

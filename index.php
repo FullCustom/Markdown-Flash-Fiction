@@ -67,9 +67,11 @@ $stories = glob("_txt/*.md");
     <header class="container-fluid bg-1 text-center">
         <h1>Tales of the Absurd</h1>
         <p>Brought to you by Libro.fm</p>
-<a rel="sponsored" href="https://www.awin1.com/cread.php?s=2961256&v=25361&q=420396&r=2579497">
-    <img src="https://www.awin1.com/cshow.php?s=2961256&v=25361&q=420396&r=2579497" border="0">
-</a>
+        <div class="banner">
+         <a rel="sponsored" href="https://www.awin1.com/cread.php?s=3846838&v=25361&q=432861&r=2579497">
+         <img src="https://www.awin1.com/cshow.php?s=3846838&v=25361&q=432861&r=2579497" border="0">
+         </a>
+        </div>
     </header>
     <div class="container-fluid bg-2">
         <div id="storyContent">Select a story to read.</div>

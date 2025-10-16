@@ -86,10 +86,46 @@ nav ul li a:hover {
     max-width: 100%;
     height: auto;
     display: block;
-    margin: 1em auto;
+    float: left;
+    margin: 1em;
     border: 1px solid #5a3d2b;
     border-radius: 5px;
 }
+
+/* Mobile adjustments */
+@media (max-width: 767px) {
+    #storyContent img {
+        float: none; /* Remove float to prevent indentation/wrapping issues */
+        margin: 1em auto; /* Center horizontally with auto left/right, keep vertical spacing */
+        display: block; /* Ensure it behaves as a block element */
+    }
+}
+
 .logo-img {
     width: 100px;
+}
+/* banner css*/
+.banner {
+  max-width: 100%;
+  overflow: hidden;  /* Hides any excess content */
+  margin-bottom: 15px;  /* Space between ads */
+  display: flex;          /* Use flexbox to center content */
+  justify-content: center; /* Center horizontally */
+  align-items: center; 
+}
+
+.banner img {
+  max-width: 100%;
+  height: auto;
+  display: block;  /* Prevents inline gaps */
+}
+
+.banner iframe {
+  width: 100%;
+  height: auto;  /* Or set a fixed height like 250px if needed */
+  border: none;
+}
+.banner {  /* Add this class to the div wrapping "More Ways To Support" */
+  overflow: hidden;
+  word-wrap: break-word;
 }
