@@ -86,7 +86,7 @@ nav ul li a:hover {
     max-width: 100%;
     height: auto;
     display: block;
-    margin: 1em;
+    margin: 1em auto;
     border: 1px solid #5a3d2b;
     border-radius: 5px;
 }
