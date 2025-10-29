@@ -83,5 +83,6 @@ $stories = glob("_txt/*.md");
         <p>Spot an issue? <a href="https://github.com/FullCustom">Contribute on GitHub</a>.</p>
         <p>Website enhanced with assistance from Grok, created by xAI.</p>
     </footer>
+    <script src="https://www.dwin2.com/pub.2579497.min.js"></script>
 </body>
 </html>
