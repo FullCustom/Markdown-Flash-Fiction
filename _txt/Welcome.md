@@ -6,7 +6,7 @@ Welcome to **Radio Cruithne**, a cozy corner of the internet where imagination t
 This site is a showcase of handcrafted short stories, stored as Markdown files and rendered dynamically for your reading pleasure. Whether you're here for a quick escape or a moment of reflection, our stories are designed to spark your imagination. Click the dropdown menu above to dive into a tale, or explore the table of contents below to choose your adventure.
 
 ## Table of Contents (Featured Stories)
-- [Rise the Pheonix](javascript:loadStory('_txt/Rise_the_Pheonix.md')): Chapter One of SPACE|1979.
+- [Space Viking](javascript:loadStory('_txt/Space_Viking.md')): Chapter Four of Space Viking.
 - [Shadow of Olympus Monte](javascript:loadStory('_txt/Shadow_of_Olympus_Monte.md')): Chapter Two of SPACE|1979.
 - [Fits Like a Glove](javascript:loadStory('_txt/Fits_Like_a_Glove.md')): Chapter Three of SPACE|1979.
 - [Life on the Edge of Sol](javascript:loadStory('_txt/Life_on_the_Edge_of_Sol.md')): Chapter Four of SPACE|1979.
@@ -17,7 +17,7 @@ This site is a showcase of handcrafted short stories, stored as Markdown files a
 ## How to Use This Site
 Simply click the featured story links above to load a tale into this space or select one from the dropdown menu. Each story is written in Markdown, ensuring clean formatting and a focus on the narrative. Feel free to explore, and check back often for new stories added to our collection.
 
-> “If my doctor told me I had only six minutes to live, I wouldn't brood. I'd type a little faster.” — Isaac Asimov
+> “Is the prisoner a prisoner because he lives in a cage or because he knows that he lives in a cage?” — Michael Moorcock, The Dancers at the End of Time
 
 Enjoy these Tales of the Absurd brought to you by Radio Cruithne!
 <div class="banner">
