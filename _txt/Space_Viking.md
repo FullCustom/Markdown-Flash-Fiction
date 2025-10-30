@@ -32,6 +32,9 @@ Sir Maxamon Zhorgay, Sesar Karvall's henchman, named himself and his lord; they 
 
 "And these persons here before us do enter into this marriage freely?" the Duke asked, when the reading had ended. He stepped forward as he spoke, and his esquire gave him the two-hand Sword of State, heavy enough to behead a bisonoid. Trask stepped forward; Sesar Karvall brought Elaine up. The lawyers and henchmen obliqued off to the sides. "How say you, Lord Trask?" he asked, almost conversationally.
 
+## Brought to you by Aroma Passions
+## [Scents Inspired By Top Designer Brands, At a Fair Price](https://www.awin1.com/cread.php?awinmid=34989&awinaffid=2579497)
+
 ![Are you guys in a band](/_img/stoned.jpg)
 
 "With all my heart, your Grace."
